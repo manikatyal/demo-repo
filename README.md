@@ -1,7 +1,8 @@
-bbsd 
+## DEMO
+galti se delete hua 
+
 lee daal dia bc 
-'njelkncnklds
-jdvnlkvdmlcdc
-/ ncdjdmlcd c lf
-vmdf,d.d
-vdjnldxmds;lvrmadd .
+
+## DEV ENVIRONMENT
+make sure u have js
+
